@@ -1,0 +1,15 @@
+h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 1.99px 1.99px .99px aquamarine;
+text-decoration: underline;
+text-indent: 10%;
+box-shadow: 1.99px 1.99px 1.99px rgb(4, 99, 99);
+
+}
+
+p2{
+
+transform: rotateX(180deg);
+color: lightblue;
+text-shadow: 2px 2px 2px blueviolet;
+}
